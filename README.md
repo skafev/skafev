@@ -22,7 +22,7 @@
 ```yaml
 name: Stanislav Kafev
 username: skafev
-location: Burgas, Bulgaria
+location: Sofia, Bulgaria
 main_stack:
   - Python
   - Django
